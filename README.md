@@ -31,7 +31,7 @@ __This is my GitHub profile.__
 ▲ | NR-GD-dev | Ready | [+](https://wizardly-tereshkova-fb71bb.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_NR-GD-dev)
 ▲ | Pig Game | Ready | [+](https://stoic-noether-6e3267.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_PigGame)
 ▲ | Presentation-1 | Ready | [+](https://agitated-joliot-feb196.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_Presentation-1)
-▲ | resentation Vs Img | Ready | [+](https://gallant-varahamihira-e0830a.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_PresentationVsImg)
+▲ | Presentation Vs Img | Ready | [+](https://gallant-varahamihira-e0830a.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_PresentationVsImg)
 ▲ | Simon Game | Ready | [+](https://awesome-khorana-1d6e1b.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_SimonGame)
 ▲ | Summary ShAR | Ready | [+](https://mystifying-kalam-926f17.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_SummaryShA)
 ▲ | Brandon (WordPress) | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/WebSite-WP_Brandon)
