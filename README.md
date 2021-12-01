@@ -12,7 +12,7 @@ __This is my GitHub profile.__
 | Type  | Name    | Status | Show | GitHub |
 |-------|---------|--------|------|--------|
 1_WebSite  | A-10 Lab | Ready  | [+](https://app.netlify.com/sites/elegant-spence-1f45ba) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_A-10-Lab)
-▲ | B125 | In Progress | [+](https://app.netlify.com/sites/confident-mahavira-1727f1) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_B125)
+▲ | B125 | Ready | [+](https://app.netlify.com/sites/confident-mahavira-1727f1) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_B125)
 ▲ | Bankist | Ready | [+](https://vibrant-stonebraker-718e7f.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_Bankist)
 ▲ | BLOW | Ready | [+](https://quizzical-archimedes-fd27af.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_BLOW)
 ▲ | Amazing Grid | Ready | [+](https://pedantic-wiles-77d9a2.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_AmazingGrid) 
