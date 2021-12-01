@@ -14,7 +14,7 @@ __This is my GitHub profile.__
 1_WebSite  | A-10 Lab | Ready  | [+](https://app.netlify.com/sites/elegant-spence-1f45ba) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_A-10-Lab)
 ▲ | Bankist | Ready | [+](https://vibrant-stonebraker-718e7f.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_Bankist)
 ▲ | B125 | Ready | [+](https://app.netlify.com/sites/confident-mahavira-1727f1) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_B125)
-▲ | B125-black | Ready | [+](file:///D:/Code/TEST%20AREA/WebSite_B125-black/index.html) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_B125-black/tree/main)
+▲ | B125-black | Ready | [+](https://cocky-spence-cedba8.netlify.app/) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_B125-black/tree/main)
 ▲ | BLOW | Ready | [+](https://quizzical-archimedes-fd27af.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_BLOW)
 ▲ | Amazing Grid | Ready | [+](https://pedantic-wiles-77d9a2.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_AmazingGrid) 
 ▲ | Bukee | Ready | [+](https://keen-swanson-ed865e.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_Bukee)
