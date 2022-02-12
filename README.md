@@ -59,6 +59,6 @@ You can also check my Portfolio WebSite here [+](https://inspiring-montalcini-4e
 ▲ | Weather Project | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_WeatherProject)
 ▲ | Wiki API | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_WikiAPI)
 5_Other | EJS Basics | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/EJS_basics)
-▲ | Gulp v3 | In Progress | - | [+](https://github.com/Al3x3ySh3vch3nko/GULP_v3-ES6/tree/main) 
+▲ | Gulp v3 | In Progress | - | [+](https://github.com/Al3x3ySh3vch3nko/Other_Gulp) 
 
 ---
