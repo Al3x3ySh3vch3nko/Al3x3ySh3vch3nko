@@ -14,7 +14,8 @@ You can also check my Portfolio WebSite here [+](https://inspiring-montalcini-4e
 
 | Type  | Name    | Status | Show | GitHub |
 |-------|---------|--------|------|--------|
-1_WebSite  | A-10 Lab | Ready  | [+](https://elegant-spence-1f45ba.netlify.app/) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_A-10-Lab)
+1_WebSite  
+▲ | A-10 Lab | Ready  | [+](https://elegant-spence-1f45ba.netlify.app/) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_A-10-Lab)
 ▲ | Bankist | Ready | [+](https://vibrant-stonebraker-718e7f.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_Bankist)
 ▲ | B125 | Ready | [+](https://confident-mahavira-1727f1.netlify.app/) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_B125)
 ▲ | B125-black | Ready | [+](https://cocky-spence-cedba8.netlify.app/) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_B125-black/tree/main)
