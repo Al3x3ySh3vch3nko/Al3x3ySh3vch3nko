@@ -37,7 +37,8 @@ You can also check my Portfolio WebSite here [+](https://inspiring-montalcini-4e
 ▲ | Summary ShAR | Ready | [+](https://mystifying-kalam-926f17.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_SummaryShA)
 ▲ | My Portfolio | Ready | [+](https://inspiring-montalcini-4efeb7.netlify.app/) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_MyPortfolio)
 ▲ | Brandon (WordPress) | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/WebSite-WP_Brandon)
-2_Web App | Guess Number Game | Ready | [+](https://sad-swanson-e3810e.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebApp_GuessNumberGame)
+2_Web App 
+▲ | Guess Number Game | Ready | [+](https://sad-swanson-e3810e.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebApp_GuessNumberGame)
 ▲ | Battleship Game | In Progress | [+](https://cranky-ptolemy-acbc88.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_BattleshipGame)
 ▲ | Dice Game | Ready | [+](https://jolly-bohr-1f02d1.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_DiceGame)
 ▲ | NR-DD-dev | In Progress | [+](https://elegant-ptolemy-ad7e8a.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_NR-DD-dev)
@@ -46,11 +47,13 @@ You can also check my Portfolio WebSite here [+](https://inspiring-montalcini-4e
 ▲ | Drumkit Game | Ready | [+](https://vibrant-goldstine-8f5ee5.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_DrumkitGame)
 ▲ | MVD Generator |In Progress | [+](https://sad-hawking-b12ca0.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebApp_MVDGenerator)
 ▲ | Simple Calculator | Ready | [+](https://nostalgic-lewin-20cf87.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebApp_SimpleCalculator)
-3_Web Component | Form Validator| Ready | [+](https://naughty-darwin-9c5b76.netlify.app)| [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_FormValidator)
+3_Web Component 
+▲ | Form Validator| Ready | [+](https://naughty-darwin-9c5b76.netlify.app)| [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_FormValidator)
 ▲ | Hamburger Menu V1 | Ready | [+](https://app.netlify.com/sites/unruffled-goodall-189751/overview) | [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_HamburgerMenuV1)
 ▲ | Hamburger Menu V2 | Ready | [+](https://gifted-bohr-bef439.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_HamburgerMenuV2)
 ▲ | Modal Windows | Ready | [+](https://distracted-banach-14849b.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_ModalWindows)
-4_Node JS Code | Autentification | Ready |- | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_Autentification)
+4_Node JS 
+▲ | Autentification | Ready |- | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_Autentification)
 ▲ | Blog with Database | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_Blog-with-Database)
 ▲ | BMI Calculator | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_BMICalculator)
 ▲ | Express Server | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_ExpressServer) 
@@ -59,7 +62,8 @@ You can also check my Portfolio WebSite here [+](https://inspiring-montalcini-4e
 ▲ | ToDoLIstv2 |  Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_ToDoLIstv2)
 ▲ | Weather Project | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_WeatherProject)
 ▲ | Wiki API | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_WikiAPI)
-5_Other | EJS Basics | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/EJS_basics)
+5_Other 
+▲ | EJS Basics | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/EJS_basics)
 ▲ | Gulp v3 | In Progress | - | [+](https://github.com/Al3x3ySh3vch3nko/Other_Gulp) 
-
+▲ | DevNotes | In Progress | - | [+]() 
 ---
