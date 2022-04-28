@@ -52,7 +52,7 @@ You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-
 ▲ | Hamburger Menu V1 | Ready | [+](https://app.netlify.com/sites/unruffled-goodall-189751/overview) | [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_HamburgerMenuV1)
 ▲ | Hamburger Menu V2 | Ready | [+](https://gifted-bohr-bef439.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_HamburgerMenuV2)
 ▲ | Modal Windows | Ready | [+](https://distracted-banach-14849b.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_ModalWindows)
-4_Node JS 
+4_BackEnd
 ▲ | Autentification | Ready |- | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_Autentification)
 ▲ | Blog with Database | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_Blog-with-Database)
 ▲ | BMI Calculator | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_BMICalculator)
@@ -62,7 +62,9 @@ You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-
 ▲ | ToDoLIstv2 |  Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_ToDoLIstv2)
 ▲ | Weather Project | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_WeatherProject)
 ▲ | Wiki API | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_WikiAPI)
-5_Other 
+5_DApp
+▲ | DBank| In Progress | - | [-]
+6_Other 
 ▲ | EJS Basics | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/EJS_basics)
 ▲ | Gulp v3 | In Progress | - | [+](https://github.com/Al3x3ySh3vch3nko/Other_Gulp) 
 ▲ | DevNotes | In Progress | - | [+](https://github.com/Al3x3ySh3vch3nko/Other_DevNotes) 
