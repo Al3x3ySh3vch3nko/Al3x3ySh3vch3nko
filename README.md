@@ -65,7 +65,7 @@ You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-
 5_DApps
 ▲ | DBank| Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/DApps-DBank)
 ▲ | DKeeper (React)| Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/DApps_DKeeper)
-▲ | A-3x3-token (ICP Blockchain) | In Progress | - | -
+▲ | A3X3-token (ICP Blockchain) | In Progress | - | -
 6_Other 
 ▲ | EJS Basics | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/EJS_basics)
 ▲ | Gulp v3 | In Progress | - | [+](https://github.com/Al3x3ySh3vch3nko/Other_Gulp) 
