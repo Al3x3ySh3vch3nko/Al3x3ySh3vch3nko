@@ -14,7 +14,7 @@ You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-
 
 | Type  | Name    | Status | Show | GitHub |
 |-------|---------|--------|------|--------|
-1_WebSite  
+1_WebSites  
 ▲ | A-10 Lab | Ready  | [+](https://elegant-spence-1f45ba.netlify.app/) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_A-10-Lab)
 ▲ | Bankist | Ready | [+](https://vibrant-stonebraker-718e7f.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_Bankist)
 ▲ | B125 | Ready | [+](https://confident-mahavira-1727f1.netlify.app/) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_B125)
@@ -37,7 +37,7 @@ You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-
 ▲ | Summary ShAR | Ready | [+](https://mystifying-kalam-926f17.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_SummaryShA)
 ▲ | My Portfolio | Ready | [+](https://inspiring-montalcini-4efeb7.netlify.app/) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_MyPortfolio)
 ▲ | Brandon (WordPress) | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/WebSite-WP_Brandon)
-2_Web App 
+2_Web Apps 
 ▲ | Guess Number Game | Ready | [+](https://sad-swanson-e3810e.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebApp_GuessNumberGame)
 ▲ | Battleship Game | In Progress | [+](https://cranky-ptolemy-acbc88.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_BattleshipGame)
 ▲ | Dice Game | Ready | [+](https://jolly-bohr-1f02d1.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_DiceGame)
@@ -47,12 +47,12 @@ You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-
 ▲ | Drumkit Game | Ready | [+](https://vibrant-goldstine-8f5ee5.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebSite_DrumkitGame)
 ▲ | MVD Generator |In Progress | [+](https://sad-hawking-b12ca0.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebApp_MVDGenerator)
 ▲ | Simple Calculator | Ready | [+](https://nostalgic-lewin-20cf87.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebApp_SimpleCalculator)
-3_Web Component 
+3_Web Components 
 ▲ | Form Validator| Ready | [+](https://naughty-darwin-9c5b76.netlify.app)| [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_FormValidator)
 ▲ | Hamburger Menu V1 | Ready | [+](https://app.netlify.com/sites/unruffled-goodall-189751/overview) | [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_HamburgerMenuV1)
 ▲ | Hamburger Menu V2 | Ready | [+](https://gifted-bohr-bef439.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_HamburgerMenuV2)
 ▲ | Modal Windows | Ready | [+](https://distracted-banach-14849b.netlify.app) | [+](https://github.com/Al3x3ySh3vch3nko/WebComponent_ModalWindows)
-4_BackEnd
+4_Back End
 ▲ | Autentification | Ready |- | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_Autentification)
 ▲ | Blog with Database | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_Blog-with-Database)
 ▲ | BMI Calculator | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_BMICalculator)
