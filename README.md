@@ -58,12 +58,13 @@ You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-
 ▲ | BMI Calculator | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_BMICalculator)
 ▲ | Express Server | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_ExpressServer) 
 ▲ | Newsletter Signup | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_Newsletter-Signup)
-▲ | ToDoLIstv1 | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_ToDoLIstv1)
-▲ | ToDoLIstv2 |  Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_ToDoLIstv2)
+▲ | ToDoLIst-v1 | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_ToDoLIstv1)
+▲ | ToDoLIst-v2 |  Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_ToDoLIstv2)
 ▲ | Weather Project | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_WeatherProject)
 ▲ | Wiki API | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/NodeJS_WikiAPI)
 5_DApps
-▲ | DBank| In Progress | - | [+](https://github.com/Al3x3ySh3vch3nko/DApps-DBank)
+▲ | DBank| Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/DApps-DBank)
+▲ | ToDoLIst-v2 on ICP| In Progress | - | [-]()
 6_Other 
 ▲ | EJS Basics | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/EJS_basics)
 ▲ | Gulp v3 | In Progress | - | [+](https://github.com/Al3x3ySh3vch3nko/Other_Gulp) 
