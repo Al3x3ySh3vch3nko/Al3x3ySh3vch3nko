@@ -70,4 +70,6 @@ You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-
 ▲ | EJS Basics | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/EJS_basics)
 ▲ | Gulp v3 | In Progress | - | [+](https://github.com/Al3x3ySh3vch3nko/Other_Gulp) 
 ▲ | DevNotes | In Progress | - | [+](https://github.com/Al3x3ySh3vch3nko/Other_DevNotes) 
+7_Forked 
+▲ | JavaScript questions | Ready | - | [+](https://github.com/Al3x3ySh3vch3nko/JavaScript-qustions) 
 ---
