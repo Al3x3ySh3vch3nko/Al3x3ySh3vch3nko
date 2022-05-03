@@ -4,7 +4,7 @@
 
 __This is my GitHub profile.__
 
-You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-4efeb7.netlify.app/) or on GitHub pages [[++]](https://al3x3ysh3vch3nko.github.io/WebSite_MyPortfolio/)
+You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-4efeb7.netlify.app/)
 
 
 ---
