@@ -4,8 +4,8 @@
 
 __This is my GitHub profile.__
 
-You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-4efeb7.netlify.app/) | (React version:
-[[+]](https://melodious-snickerdoodle-6d6653.netlify.app/) )
+You can also check my Portfolio WebSite here [[+]](https://inspiring-montalcini-4efeb7.netlify.app/)
+React version: [[+]](https://melodious-snickerdoodle-6d6653.netlify.app/)
 
 
 ---
